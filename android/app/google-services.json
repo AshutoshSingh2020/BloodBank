@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389182883004",
+    "project_id": "bbank-44a46",
+    "storage_bucket": "bbank-44a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389182883004:android:f70d87803d5675cab0fcb9",
+        "android_client_info": {
+          "package_name": "com.example.BBank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389182883004-kspljv41cr7k5j8vr6f5lqt3get69umb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCouFzoPnEn15rmaQJyJdLKImLCTAbBh4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389182883004-kspljv41cr7k5j8vr6f5lqt3get69umb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
